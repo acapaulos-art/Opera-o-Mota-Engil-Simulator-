@@ -1,0 +1,12 @@
+OPERACAO MOTA-ENGIL SIMULATOR — PACOTE UNICO PARA IMPORTAR
+
+IMPORTANTE: Este ZIP contém o projeto-fonte Godot e a especificação do jogo. Não é um APK pronto e ainda precisa ser aberto e testado no Godot 4.7.
+
+NO GODOT (Android):
+1. Descarregue este ZIP e extraia-o para uma pasta acessível.
+2. No Godot, use Importar/Abrir projeto existente.
+3. Selecione o ficheiro project.godot dentro da pasta Operacao_Mota_Engil_Simulator.
+4. Importe/abra o projeto e aguarde a verificação dos ficheiros.
+5. Execute com o botão ▶ para verificar.
+
+O projeto inclui uma cena inicial e código procedural simplificado para o protótipo e identificações de frota especificadas. Modelos finais, APK exportado, IA completa, multijogador e rádio de voz não estão prontos neste pacote.
